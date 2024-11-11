@@ -43,6 +43,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>spring-cicd-automation</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
